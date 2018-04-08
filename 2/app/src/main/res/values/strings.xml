@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Image Detect</string>
+    <string name="how_to_use_this">*How to use this</string>
+    <string name="introduce">This application uses for detecting face of a person or a group of people</string>
+    <string name="step_1_desc">First step: Select your image source</string>
+    <string name="step_2_desc">Second step: Edit your image, see the preview and send it to server for analysis</string>
+    <string name="step_3_desc">Receive image that has been detect</string>
+    <string name="safe_notification">* All of your image will be delete from our server when you receive the result</string>
+    <string name="take_a_photo">Take a photo</string>
+    <string name="select_exist">Choose exist image in your gallery</string>
+</resources>
